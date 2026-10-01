@@ -1,0 +1,11 @@
+{
+  "name":"Reporte de Obra Semanal v2.1",
+  "short_name":"Reporte Obra 2.1",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f1f5f9",
+  "theme_color":"#172554",
+  "lang":"es-MX",
+  "description":"Captura diaria de construcción y evidencia fotográfica con exportación a Excel",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

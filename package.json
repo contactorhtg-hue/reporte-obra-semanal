@@ -1,0 +1,10 @@
+{
+  "name": "reporte-obra-semanal-v2-1",
+  "version": "2.1.0",
+  "private": true,
+  "description": "PWA móvil para reportes semanales de construcción, evidencia fotográfica y exportación a Excel",
+  "scripts": {
+    "dev": "python -m http.server 8080",
+    "build": "echo 'PWA estática: lista para publicar'"
+  }
+}
